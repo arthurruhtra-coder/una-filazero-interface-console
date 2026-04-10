@@ -1,0 +1,14 @@
+C:\Users\32611916\Documents\FilaZeroLogin\bin\Debug\net10.0\FilaZeroLogin.exe
+C:\Users\32611916\Documents\FilaZeroLogin\bin\Debug\net10.0\FilaZeroLogin.deps.json
+C:\Users\32611916\Documents\FilaZeroLogin\bin\Debug\net10.0\FilaZeroLogin.runtimeconfig.json
+C:\Users\32611916\Documents\FilaZeroLogin\bin\Debug\net10.0\FilaZeroLogin.dll
+C:\Users\32611916\Documents\FilaZeroLogin\bin\Debug\net10.0\FilaZeroLogin.pdb
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.AssemblyInfoInputs.cache
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.AssemblyInfo.cs
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.csproj.CoreCompileInputs.cache
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.dll
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\refint\FilaZeroLogin.dll
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.pdb
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\FilaZeroLogin.genruntimeconfig.cache
+C:\Users\32611916\Documents\FilaZeroLogin\obj\Debug\net10.0\ref\FilaZeroLogin.dll

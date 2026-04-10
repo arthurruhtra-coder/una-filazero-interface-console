@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FilaZeroLogin/1.0.0": {
+        "runtime": {
+          "FilaZeroLogin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilaZeroLogin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
