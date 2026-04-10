@@ -22,3 +22,6 @@ Digite o usuário e senha no console;
 Este projeto é apenas para aprendizado.
 As credenciais estão fixas no código e não são seguras para uso real.
 Projeto básico para praticar C# 🚀
+
+<img width="550" height="711" alt="image" src="https://github.com/user-attachments/assets/5c93d802-4ed1-46a0-8c76-53c3d8d54ea4" />
+
